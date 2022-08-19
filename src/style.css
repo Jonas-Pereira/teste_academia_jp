@@ -1,0 +1,43 @@
+.justifica{
+    text-align: left;
+}
+
+
+.card-largura {
+   max-width: 18rem;
+
+}
+
+.imagem-carrossel-um{
+    object-fit: cover;  /* ajuste de imagem*/
+    position: 0% 80%; /* move a imagem eixo x y*/
+    height: 1000px; /* Largura da Imagem*/
+}
+
+.imagem-carrossel-dois{
+    object-fit: cover;  /* ajuste de imagem*/
+    height: 1000px; /* Largura da Imagem*/
+}
+
+
+.cor-especial{
+    color: #dcb020;
+}
+
+.botao-cor-especial{
+
+    background-color: darkred;
+    color: white;
+
+
+}
+
+.borda-cor-especial{
+    border-color: darkred;
+}
+
+.card-posicao-imagem{
+    object-fit: cover;  /* ajuste de imagem*/
+    height: 240px; /* Largura da Imagem*/
+}
+
